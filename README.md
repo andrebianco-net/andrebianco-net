@@ -9,9 +9,12 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 Below is my first effort to show a little of my work. It's not all done yet and maybe it never will be, because the idea is always to create more and more repositories which bring a way to how to solve work real problems.
 
 ### 1. How to create an integration to connect three companies
-#### <font color="black">Repositories used:</font>
+#### Repositories used:
 [Creating a data ingestion using XML, Python, JSON and MongoDB](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
 [Creating a C# Worker Service based on Clean Architecture](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
-[Creating a C# Web API based on Clean Architecture](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)
+[Creating a C# Web API based on Clean Architecture](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
+(Next repo) Creating Product CRUD using C# ASP.NET Core MVC</br>
+(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular
 
-#### <font color="black">BPMN:</font>
+#### BPMN:</font>
+![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/4b049940-19c3-493d-ad61-e48eec1529ad)
