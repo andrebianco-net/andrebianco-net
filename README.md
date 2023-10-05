@@ -33,6 +33,10 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 <p>Below is my first effort to show a little of my work. It's not all done yet and maybe it never will be, because the idea is always to create more and more repositories which bring a way to how to solve work real problems.</p>
 
 ### 1. How to create an integration to connect three companies
+#### Contextualizing
+
+<p>There is a retail company that wants to use their Sales web system, specially designed for their sales team to control supply and customers interests. Bob, the salesman, knew about a brand new wheel model which a renowned factory just produced and put in the market. In order to bring that new item to their customers he talked with his boss, Jack and so they emailed their distributor that promised urgency in making the new item delivery. Dave, the salesman distributor, then made an express phone call to the wheel factory sales manager, Sara, who immediately put the brand new wheel available to the distributor via XML file containing specifications about the product. The file was delivered by an integration queue available between the distributor and the factory.</p>
+
 #### Repositories used:
 [Creating a data ingestion using XML, Python, JSON and MongoDB](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
 [Creating a C# Worker Service based on Clean Architecture](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
