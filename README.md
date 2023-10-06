@@ -36,7 +36,7 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 ### 1. How to create an integration to connect three companies
 #### Case study
 
-<p>There is a retailer company that wants to use their Sales web system specially designed for their sales team to control supply and customers interests. Bob, the retailer's salesman, knew about a brand new wheel model which a renowned manufacturer just produced and put in the market. In order to bring that new product to their customers he talked with Jack, his boss,  and so they emailed their distributor that promised urgency in making delivery of the new product . Dave, the salesman distributor, then made an express phone call to the wheel manufacturer's sales manager, Sara, who immediately put the brand new wheel available to the distributor via a XML file containing specifications about the product. The file was delivered by an integration available between the distributor and the manufacturer There is another integration between the distributor and the retailer that will sale the product. The BPMN section illustrates the context.</p>
+<p>There is a retailer company that wants to use their Sales web system specially designed for their sales team to control supply and customers interests. Bob, the retailer's salesman, knew about a brand new wheel model which a renowned manufacturer just produced and put in the market. In order to bring that new product to their customers he talked with Jack, his boss,  and so they emailed their distributor that promised urgency in making delivery of the new product . Dave, the salesman distributor, then made an express phone call to the wheel manufacturer's sales manager, Sara, who immediately put the brand new wheel available to the distributor via a XML file containing specifications about the product. The file was delivered by an integration available between the distributor and the manufacturer There is another integration between the distributor and the retailer that will sale the product. The BPMN section illustrates the case (Figure1).</p>
 
 #### Repositories used and their roles:
 [Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
@@ -47,7 +47,7 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 
 #### BPMN diagram:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/595c1e36-ef3a-41b7-b9b3-013a3f2376ed)
-[Download the png file here](https://github.com/andrebianco-net/andrebianco-net/blob/main/1HowToCreateAnIntegrationToConnectThreeCompanies.drawio.png) - Figure 1
+<sub>[Download the png file here](https://github.com/andrebianco-net/andrebianco-net/blob/main/1HowToCreateAnIntegrationToConnectThreeCompanies.drawio.png) - Figure 1</sub>
 
 
 
