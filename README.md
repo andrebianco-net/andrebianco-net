@@ -36,14 +36,14 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 ### 1. How to create an integration to connect three companies
 #### Contextualizing
 
-<p>There is a retail company that wants to use their Sales web system, specially designed for their sales team to control supply and customers interests. Bob, the salesman, knew about a brand new wheel model which a renowned factory just produced and put in the market. In order to bring that new item to their customers he talked with his boss, Jack and so they emailed their distributor that promised urgency in making the new item delivery. Dave, the salesman distributor, then made an express phone call to the wheel factory sales manager, Sara, who immediately put the brand new wheel available to the distributor via XML file containing specifications about the product. The file was delivered by an integration queue available between the distributor and the factory. The BPMN section ilustrate it.</p>
+<p>There is a retailer company that wants to use their Sales web system specially designed for their sales team to control supply and customers interests. Bob, the retailer's salesman, knew about a brand new wheel model which a renowned manufacturer just produced and put in the market. In order to bring that new product to their customers he talked with Jack, his boss,  and so they emailed their distributor that promised urgency in making delivery of the new product . Dave, the salesman distributor, then made an express phone call to the wheel manufacturer's sales manager, Sara, who immediately put the brand new wheel available to the distributor via a XML file containing specifications about the product. The file was delivered by an integration available between the distributor and the manufacturer There is another integration between the distributor and the retailer that will sale the product. The BPMN section illustrates the context.</p>
 
 #### Repositories used and their roles:
-[Creating a data ingestion using XML, Python, JSON and MongoDB (Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture (Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
-[Creating a C# .NET Core Web API based on Clean Architecture (Retail's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
-(Next repo) Creating Product CRUD using C# ASP.NET Core MVC (Retail's role)</br>
-(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retail's role)
+[Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
+[Creating a C# .NET Core Worker Service based on Clean Architecture (Product Feeder Service - Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
+[Creating a C# .NET Core Web API based on Clean Architecture (Product Registration Service - Retailer's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
+(Next repo) Creating Product CRUD using C# ASP.NET Core MVC (Retailer's role)</br>
+(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retailer's role)
 
 #### BPMN:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/5a9561a6-242c-4edb-80c8-edc66a6f7c5f)
