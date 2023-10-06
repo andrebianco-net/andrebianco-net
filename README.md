@@ -40,8 +40,8 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 
 #### Repositories used and their roles:
 [Creating a data ingestion using XML, Python, JSON and MongoDB (Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
-[Creating a C# Worker Service based on Clean Architecture (Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
-[Creating a C# Web API based on Clean Architecture (Retail's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
+[Creating a C# .NET Core Worker Service based on Clean Architecture (Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
+[Creating a C# .NET Core Web API based on Clean Architecture (Retail's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
 (Next repo) Creating Product CRUD using C# ASP.NET Core MVC (Retail's role)</br>
 (Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retail's role)
 
