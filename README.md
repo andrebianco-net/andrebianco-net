@@ -4,7 +4,11 @@
 
 My career in IT embraces System Development inside Industries and Consultancies. I consider that I have a solid background and it includes the activities of Software Developer with many specializations in Languages of Programming and Databases. 
 
-I have been a Software Developer since 2000 and for this reason I have extensive experience in the area with Backend and Frontend development, well as analysis and resolving problems associated with applications.</p>
+I have been a Software Developer since 2000 and for this reason I have extensive experience in the area with Backend and Frontend development, well as analysis and resolving problems associated with applications.
+
+My mission as a software developer including in my role activities such to help to understand the problem target to solve, to help software design (in high-level) for identify the Product Backlog and to define how the software will be produced (data flows, structures, modules and components), participation in Scrum activities (Sprint Planning, Daily Scrum, Sprint Review and Sprint Retrospective), interactions with the team collaborating during all phases and also of course during coding and testing. Version control is so important and it is my duty to maintain the code compilable.</p>
+
+.NET | .NET Core | C# | Web API | SOAP API (asmx) | Windows Services | Worker | ASP.NET MVC | Python | JavaScript | Git | SQL Server | T-SQL | MongoDB | Azure DevOps (Version Control & Project Management)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
