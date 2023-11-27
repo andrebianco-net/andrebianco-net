@@ -68,6 +68,12 @@ Following the section there are some studies of cases which I have implemented t
 ### 2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database
 #### Case study:
 #### Technology used:
+- C# .NET Core
+- RabbitMQ
+- Docker
+- MongoDB
+- Microsoft SQL Server
+
 #### Repositories used and their roles:
 #### BPMN diagram:</font>
 <sub>[Download the png file here](https://#) - Figure 2</sub>
