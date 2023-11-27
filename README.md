@@ -76,8 +76,8 @@ Following the section there are some studies of cases which I have implemented t
 - Microsoft SQL Server
 
 #### Repositories used and their roles:
-[Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
+[Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ (Sales Order Sender)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br>
+[Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ (Sales Order Receiver)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
 
 #### BPMN diagram:</font>
 <sub>[Download the png file here](https://#) - Figure 2</sub>
