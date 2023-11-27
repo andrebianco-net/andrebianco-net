@@ -44,7 +44,7 @@ My mission as a software developer including in my role activities such to help 
 Following the section there are some studies of cases which I have implemented to show how can I solve some real problems. The idea here is ever implement more stories and their repositories.
 
 ### 1. How to create an integration to connect three companies
-#### Case study
+#### Case study:
 
 <p>There is a retailer company that wants to use their Sales web system specially designed for their sales team to control supply and customers interests. Bob, the retailer's salesman, knew about a brand new wheel model which a renowned manufacturer just produced and put in the market. In order to bring that new product to their customers he talked with Jack, his boss,  and so they emailed their distributor that promised urgency in making delivery of the new product . Dave, the salesman distributor, then made an express phone call to the wheel manufacturer's sales manager, Sara, who immediately put the brand new wheel available to the distributor via a XML file containing specifications about the product. The file was delivered by an integration available between the distributor and the manufacturer There is another integration between the distributor and the retailer that will sale the product. The BPMN section illustrates the case (Figure1).</p>
 
@@ -67,3 +67,9 @@ Following the section there are some studies of cases which I have implemented t
 
 ### 2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database
 #### Case study
+#### Technology used:
+#### Repositories used and their roles:
+#### BPMN diagram:</font>
+
+
+
