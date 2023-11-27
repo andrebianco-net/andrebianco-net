@@ -8,7 +8,7 @@ I have been a Software Developer since 2000 and for this reason I have extensive
 
 My mission as a software developer including in my role activities such to help to understand the problem target to solve, to help software design (in high-level) for identify the Product Backlog and to define how the software will be produced (data flows, structures, modules and components), participation in Scrum activities (Sprint Planning, Daily Scrum, Sprint Review and Sprint Retrospective), interactions with the team collaborating during all phases and also of course during coding and testing. Version control is so important and it is my duty to maintain the code compilable.</p>
 
-.NET | .NET Core | C# | Web API | SOAP API (asmx) | Windows Services | Worker | ASP.NET MVC | Python | JavaScript | Git | SQL Server | T-SQL | MongoDB | Azure DevOps (Version Control & Project Management)
+.NET | .NET Core | C# | Web API | SOAP API (asmx) | Windows Services | Worker | ASP.NET MVC | Python | JavaScript | Git | SQL Server | T-SQL | MongoDB | Azure DevOps (Version Control & Project Management) | Docker | RabbitMQ
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
@@ -23,6 +23,8 @@ My mission as a software developer including in my role activities such to help 
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">  
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg">  
 </div>
 
 ###
@@ -35,18 +37,27 @@ My mission as a software developer including in my role activities such to help 
 
 ## Repository Stories
 
+<!--
 <p>Below is my first effort to show a little of my work. It's not all done yet and maybe it never will be, because the idea is always to create more and more repositories which bring a way to how to solve work real problems.</p>
+-->
+
+Following the section there are some studies of cases which I have implemented to show how can I solve some real problems. The idea here is ever implement more stories and their repositories.
 
 ### 1. How to create an integration to connect three companies
 #### Case study
 
 <p>There is a retailer company that wants to use their Sales web system specially designed for their sales team to control supply and customers interests. Bob, the retailer's salesman, knew about a brand new wheel model which a renowned manufacturer just produced and put in the market. In order to bring that new product to their customers he talked with Jack, his boss,  and so they emailed their distributor that promised urgency in making delivery of the new product . Dave, the salesman distributor, then made an express phone call to the wheel manufacturer's sales manager, Sara, who immediately put the brand new wheel available to the distributor via a XML file containing specifications about the product. The file was delivered by an integration available between the distributor and the manufacturer There is another integration between the distributor and the retailer that will sale the product. The BPMN section illustrates the case (Figure1).</p>
 
+#### Technology used:
+- Python
+- C# .NET Core
+- MongoDB
+- Microsoft SQL Server
+
 #### Repositories used and their roles:
 [Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture (Product Feeder Service - Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
-[Creating a C# .NET Core Web API based on Clean Architecture (Product Registration Service - Retailer's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
-(Next repo) Creating Product CRUD using C# ASP.NET Core MVC (Retailer's role)</br>
+[Creating a C# .NET Core Worker Service based on Clean Architecture and using MongoDB (Product Feeder Service - Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
+[Creating a C# .NET Core Web API based on Clean Architecture and using Microsoft SQL Server (Product Registration Service - Retailer's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
 (Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retailer's role)
 
 #### BPMN diagram:</font>
@@ -54,7 +65,5 @@ My mission as a software developer including in my role activities such to help 
 <sub>[Download the png file here](https://github.com/andrebianco-net/andrebianco-net/blob/main/1HowToCreateAnIntegrationToConnectThreeCompanies.drawio.png) - Figure 1</sub>
 
 
-
-
-
-
+### 2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database
+#### Case study
