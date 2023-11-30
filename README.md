@@ -68,6 +68,9 @@ Following the section there are some studies of cases which I have implemented t
 
 ### 2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database
 #### Case study:
+
+<p>There is a retailer company which has an e-commerce store to attend to his customers. That web store has a cart where customers can make their purchases and payments. Each one of purchases are recorded into a database and flagged as non accepted yet. There is a service responsible to collect each purchase and to insert it into a queue, as a message, that will be consumed in the next moment. That queue informs the acceptance and each record is updated in appropriate time by that first service. There is a second one service which consume the queue as mentioned before, its mission is take messages and store it into another database in another extremely of the solution designed to that company.</p>
+
 #### Technology used:
 - C# .NET Core
 - RabbitMQ
