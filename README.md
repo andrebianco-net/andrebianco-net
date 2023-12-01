@@ -83,6 +83,7 @@ Following the section there are some studies of cases which I have implemented t
 [Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ (Sales Order Receiver - Second service)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
 
 #### BPMN diagram:</font>
-<sub>[Download the png file here](https://#) - Figure 2</sub>
+![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/03709d46-7c99-4fb7-8393-7a8049bc780a)
+<sub>[Download the png file here](https://github.com/andrebianco-net/andrebianco-net/blob/main/2HowToCreateAnIntegrationBetweenTwoPointsOfASolution.drawio.png) - Figure 2</sub>
 
 
