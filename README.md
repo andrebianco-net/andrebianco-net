@@ -45,6 +45,7 @@ Following the section there are some studies of cases which I have implemented t
 
 [1. How to create an integration to connect three companies](https://github.com/andrebianco-net#1-how-to-create-an-integration-to-connect-three-companies)<br/>
 [2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database](https://github.com/andrebianco-net#2-how-to-create-an-integration-between-two-points-of-a-solution-the-first-responsible-to-get-sales-order-and-the-second-one-responsible-to-store-it-into-a-database)
+<br/><br/>
 ___
 
 ### 1. How to create an integration to connect three companies
@@ -67,8 +68,8 @@ ___
 #### BPMN diagram:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/595c1e36-ef3a-41b7-b9b3-013a3f2376ed)
 <sub>[Download the png file here](https://github.com/andrebianco-net/andrebianco-net/blob/main/1HowToCreateAnIntegrationToConnectThreeCompanies.drawio.png) - Figure 1</sub>
-
 <br/><br/>
+___
 
 ### 2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database
 #### Case study:
