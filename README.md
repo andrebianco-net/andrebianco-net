@@ -43,6 +43,10 @@ My mission as a software developer including in my role activities such to help 
 
 Following the section there are some studies of cases which I have implemented to show how can I solve some real problems. The idea here is ever implement more stories and their repositories.
 
+[1. How to create an integration to connect three companies](https://github.com/andrebianco-net#1-how-to-create-an-integration-to-connect-three-companies)<br/>
+[2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database](https://github.com/andrebianco-net#2-how-to-create-an-integration-between-two-points-of-a-solution-the-first-responsible-to-get-sales-order-and-the-second-one-responsible-to-store-it-into-a-database)
+___
+
 ### 1. How to create an integration to connect three companies
 #### Case study:
 
