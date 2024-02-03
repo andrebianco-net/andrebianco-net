@@ -106,12 +106,26 @@ ___
 - MongoDB
 - Microsoft SQL Server
 
-| Localhost Dev | Azure |
-| -------- | ------- |
-| Code C# .NET Core | Azure Container Registry and Instances |
-| RabbitMQ Message Broker | Azure Virtual Machine |
-| Database MongoDB | Azure CosmosDB |
-| Database Microsoft SQL Server | Azure SQL Server and Azure SQL Database |
+<table>
+  <tr>
+    <th colspan="2">Environment</th>
+  </tr>
+  <tr>
+    <th>Localhost Dev</th><th>Azure</th>
+  </tr>
+  <tr>
+    <td>Code C# .NET Core</td><td>Azure Container Registry and Instances</td>
+  </tr>
+  <tr>    
+    <td>RabbitMQ Message Broker</td><td>Azure Virtual Machine</td>
+  </tr>
+  <tr>    
+    <td>Database MongoDB</td><td>Azure CosmosDB</td>
+  </tr>
+  <tr>    
+    <td>Database Microsoft SQL Server</td><td>Azure SQL Server and Azure SQL Database</td>
+  </tr>
+</table>
 
 #### Repositories used and their roles:
 [Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ (Sales Order Sender Service - First service)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br>
