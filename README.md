@@ -86,7 +86,7 @@ ___
 [Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb) - With Azure Sample</br>
 [Creating a C# .NET Core Worker Service based on Clean Architecture and MongoDB (Product Feeder Service - Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture) - With Azure Sample</br>
 [Creating a C# .NET Core Web API based on Clean Architecture and Microsoft SQL Server (Product Registration Service - Retailer's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture) - With Azure Sample</br>
-(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retailer's role)
+<!--(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retailer's role)-->
 
 #### BPMN diagram:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/595c1e36-ef3a-41b7-b9b3-013a3f2376ed)
