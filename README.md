@@ -134,5 +134,9 @@ ___
 #### BPMN diagram:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/03709d46-7c99-4fb7-8393-7a8049bc780a)
 <sub>[Download the png file here](https://github.com/andrebianco-net/andrebianco-net/blob/main/2HowToCreateAnIntegrationBetweenTwoPointsOfASolution.drawio.png) - Figure 2</sub>
+___
 
+### 3. Azure resources for case studies 1 and 2:</font>
+
+![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/731661b0-ca8b-4237-8a6e-6e6f0f29b2f5)
 
