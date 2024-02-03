@@ -60,6 +60,13 @@ ___
 - MongoDB
 - Microsoft SQL Server
 
+| Localhost Dev | Azure |
+| -------- | ------- |
+| Code Python script | Azure Container Registry and Instances |
+| Code C# .NET Core | Azure App Services (Web), Azure Container Registry and Instances |
+| Database MongoDB | Azure CosmosDB |
+| Database Microsoft SQL Server | Azure SQL Server and Azure SQL Database |
+
 #### Repositories used and their roles:
 [Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
 [Creating a C# .NET Core Worker Service based on Clean Architecture and MongoDB (Product Feeder Service - Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
