@@ -84,9 +84,9 @@ ___
 </table>
 
 #### Repositories used and their roles:
-[Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role)](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb) - With Azure Sample</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture and MongoDB (Product Feeder Service - Distributor's role)](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture) - With Azure Sample</br>
-[Creating a C# .NET Core Web API based on Clean Architecture and Microsoft SQL Server (Product Registration Service - Retailer's role)](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture) - With Azure Sample</br>
+[Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role) - With Azure Sample](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
+[Creating a C# .NET Core Worker Service based on Clean Architecture and MongoDB (Product Feeder Service - Distributor's role) - With Azure Sample](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
+[Creating a C# .NET Core Web API based on Clean Architecture and Microsoft SQL Server (Product Registration Service - Retailer's role) - With Azure Sample](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
 <!--(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retailer's role)-->
 
 #### BPMN diagram:</font>
@@ -129,8 +129,8 @@ ___
 </table>
 
 #### Repositories used and their roles:
-[Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ (Sales Order Sender Service - First service)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ (Sales Order Receiver - Second service)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
+[Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ (Sales Order Sender Service - First service - With Azure Sample)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br>
+[Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ (Sales Order Receiver - Second service - With Azure Sample)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
 
 #### BPMN diagram:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/03709d46-7c99-4fb7-8393-7a8049bc780a)
