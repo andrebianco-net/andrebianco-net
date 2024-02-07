@@ -44,8 +44,8 @@ My mission as a software developer including in my role activities such to help 
 
 Following the section there are some studies of cases which I have implemented to show how can I solve some real problems. The idea here is ever implement more stories and their repositories.
 
-[1. How to create an integration to connect three companies](https://github.com/andrebianco-net#1-how-to-create-an-integration-to-connect-three-companies)<br/>
-[2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database](https://github.com/andrebianco-net#2-how-to-create-an-integration-between-two-points-of-a-solution-the-first-responsible-to-get-sales-order-and-the-second-one-responsible-to-store-it-into-a-database)</br>
+[1. How to create an integration to connect three companies](https://github.com/andrebianco-net#1-how-to-create-an-integration-to-connect-three-companies)<br/><br/>
+[2. How to create an integration between two points of a solution, the first responsible to get sales order and the second one responsible to store it into a database](https://github.com/andrebianco-net#2-how-to-create-an-integration-between-two-points-of-a-solution-the-first-responsible-to-get-sales-order-and-the-second-one-responsible-to-store-it-into-a-database)</br><br/>
 [3. Azure resources for case studies 1 and 2](https://github.com/andrebianco-net#3-azure-resources-for-case-studies-1-and-2)
 <br/><br/>
 ___
@@ -84,9 +84,9 @@ ___
 </table>
 
 #### Repositories used and their roles:
-[Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role) - With Azure Sample](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture and MongoDB (Product Feeder Service - Distributor's role) - With Azure Sample](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br>
-[Creating a C# .NET Core Web API based on Clean Architecture and Microsoft SQL Server (Product Registration Service - Retailer's role) - With Azure Sample](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br>
+[1.1) Creating a data ingestion using XML, Python, JSON and MongoDB (Data Ingestion Service - Distributor's role) - With Azure Sample](https://github.com/andrebianco-net/create-data-ingestion-python-mongodb)</br><br/>
+[1.2) Creating a C# .NET Core Worker Service based on Clean Architecture and MongoDB (Product Feeder Service - Distributor's role) - With Azure Sample](https://github.com/andrebianco-net/create-csharp-worker-clean-architecture)</br><br/>
+[1.3) Creating a C# .NET Core Web API based on Clean Architecture and Microsoft SQL Server (Product Registration Service - Retailer's role) - With Azure Sample](https://github.com/andrebianco-net/create-csharp-webapi-clean-architecture)</br><br/>
 <!--(Next repo) Creating Product CRUD using C# ASP.NET Core MVC and Angular (Retailer's role)-->
 
 #### BPMN diagram:</font>
@@ -129,8 +129,8 @@ ___
 </table>
 
 #### Repositories used and their roles:
-[Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ (Sales Order Sender Service - First service - With Azure Sample)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br>
-[Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ (Sales Order Receiver - Second service - With Azure Sample)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
+[2.1) Creating a C# .NET Core Worker Service based on Clean Architecture, MongoDB and RabbitMQ (Sales Order Sender Service - First service - With Azure Sample)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mongodb)</br><br/>
+[2.2) Creating a C# .NET Core Worker Service based on Clean Architecture, Microsoft SQL Server and RabbitMQ (Sales Order Receiver - Second service - With Azure Sample)](https://github.com/andrebianco-net/create-csharp-worker-rabbitmq-mssql)
 
 #### BPMN diagram:</font>
 ![image](https://github.com/andrebianco-net/andrebianco-net/assets/453193/03709d46-7c99-4fb7-8393-7a8049bc780a)
